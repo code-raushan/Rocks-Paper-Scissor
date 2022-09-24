@@ -9,4 +9,4 @@ The UI is created using **BootStrap**.
 
 The game logic is fairly simple and extensive use of DOM techniques is done.(LOL!, it was mandatory though😂)
 
-![Game Look](Proj_image/Project.png)
+![Game Look](Proj_Image/Project.png)
